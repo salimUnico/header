@@ -1,0 +1,14 @@
+com/headernavigation/MainActivity.java
+ com.headernavigation.MainActivity
+com/headernavigation/ReactNativeFlipper.java
+ com.headernavigation.ReactNativeFlipper
+ com.headernavigation.ReactNativeFlipper$1
+ com.headernavigation.ReactNativeFlipper$2
+ com.headernavigation.ReactNativeFlipper$2$1
+com/headernavigation/BuildConfig.java
+ com.headernavigation.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/headernavigation/MainApplication.java
+ com.headernavigation.MainApplication
+ com.headernavigation.MainApplication$1
